@@ -7,7 +7,7 @@ REPO_URL="https://github.com/eze1087/python80.git"
 apt update && apt upgrade -y
 
 # Descarga y ejecuta este setup para asegurarte de tener lo básico
-wget https://raw.githubusercontent.com/eze1087/python80/refs/heads/main/setup.sh && chmod +x setup.sh && ./setup.sh
+wget https://raw.githubusercontent.com/eze1087/python80/refs/heads/main/setup.sh
 
 # Clona tu repositorio completo
 git clone $REPO_URL /tmp/mi-proxy
