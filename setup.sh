@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Reemplaza este link con tu repositorio de GitHub
-REPO_URL="https://github.com/tuusuario/tu-repo.git"
+REPO_URL="https://raw.githubusercontent.com/eze1087/python80/refs/heads/main/PDirect.py"
 
 # Clonar tu repositorio
 git clone $REPO_URL /tmp/mi-proxy
