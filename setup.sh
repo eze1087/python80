@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Reemplaza este enlace con tu repositorio real que contiene PDirect.py
-REPO_URL="https://github.com/eze1087/tu-repo.git"
+REPO_URL="https://github.com/eze1087/python80.git"
 
 # Actualiza los paquetes y dependencias
 apt update && apt upgrade -y
